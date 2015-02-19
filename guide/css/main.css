@@ -968,7 +968,7 @@ img {
   position: relative;
   float: left;
   margin: 20px 50px 20px 0;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 .purchase .price-table-hide:last-child {
   margin-right: 0;
