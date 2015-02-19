@@ -885,7 +885,6 @@ img {
 ------------------*/
 .purchase {
   background: #333333;
-
   /* /.price-table */
 
 }
@@ -957,68 +956,6 @@ img {
 .purchase .price-table.recommended .price-table-description {
   min-height: 270px;
 }
-
-  /* /.price-table-hide */
-
-.purchase .price-table-hide {
-  background: #333333;
-  text-align: center;
-  width: 280px;
-  min-height: 560px;
-  position: relative;
-  float: left;
-  margin: 20px 50px 20px 0;
-  padding-bottom: 50px;
-}
-.purchase .price-table-hide:last-child {
-  margin-right: 0;
-}
-.purchase .price-table-hide .price-table-hide-title,
-.purchase .price-table-hide .price,
-.purchase .price-table-hide .price-table-hide-description {
-  padding: 30px 0;
-}
-.purchase .price-table-hide .price-table-hide-title {
-  width: 100%;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
-  text-transform: uppercase;
-}
-.purchase .price-table-hide .price {
-  background: #d95843;
-  text-align: center;
-}
-.purchase .price-table-hide .price p {
-  font-family: 'Pacifico', cursive;
-  font-size: 72px;
-  color: #f2f2f2;
-}
-.purchase .price-table-hide .price span {
-  font-size: 30px;
-}
-.purchase .price-table-hide .price-table-hide-description {
-  min-height: 250px;
-}
-.purchase .price-table-hide .price-table-hide-description p {
-  margin: 0 0 5px 0;
-  color: #666666;
-  font-style: italic;
-}
-.purchase .price-table-hide .button {
-  margin: 0;
-}
-.purchase .price-table-hide.recommended {
-  background: #ffffff;
-  padding-bottom: 50px;
-  margin-top: -10px;
-}
-.purchase .price-table-hide.recommended .price {
-  padding: 50px 0;
-}
-.purchase .price-table-hide.recommended .price-table-hide-description {
-  min-height: 270px;
-}
-
 /* Contact
 ------------------*/
 .contact {
